@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DrPhoenixx
-- 👀 I’m interested and Machine learnign
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 🎮 I also do some game development
